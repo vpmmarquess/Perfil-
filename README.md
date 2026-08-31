@@ -30,9 +30,9 @@ Sou o Victor Marques, estudante de ADS (Análise e Desenvolvimento de Sistemas),
 - Em breve: novos projetos em desenvolvimento
 
 ### Conecte-se comigo
-- GitHub: [Seu usuário](https://github.com/)
-- LinkedIn: [Seu perfil](https://www.linkedin.com/)
-- Email: victor@email.com
+- GitHub: [Seu usuário](https://github.com/vpmmarquess)
+- LinkedIn: [Seu perfil](https://www.linkedin.com/in/victor-marques-935442ba/?skipRedirect=true)
+- Email: vpm.marquess@gmail.com
 
 ### Frase
 "Cada linha de código é uma oportunidade de aprender e evoluir."
