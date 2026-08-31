@@ -6,17 +6,6 @@
 
 Sou o Victor Marques, estudante de ADS (Análise e Desenvolvimento de Sistemas), apaixonado por tecnologia, programação e inovação. Estou em constante aprendizado e sempre buscando criar projetos que unem criatividade, lógica e impacto real.
 
-<!-- TOC -->
-- [Victor Marques](#victor-marques)
-  - [Estudante de Análise e Desenvolvimento de Sistemas](#estudante-de-análise-e-desenvolvimento-de-sistemas)
-  - [Sobre mim](#sobre-mim)
-  - [Tecnologias](#tecnologias)
-  - [Objetivos](#objetivos)
-  - [Projetos em destaque](#projetos-em-destaque)
-  - [Conecte-se comigo](#conecte-se-comigo)
-  - [Frase](#frase)
-<!-- /TOC -->
-
 ## Sobre mim
 
 - 🎓 Estudante de ADS
